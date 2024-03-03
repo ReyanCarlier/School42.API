@@ -1,4 +1,5 @@
 # School42 API Services Library
+# [WORK IN PROGRESS]
 
 This library is designed to work seamlessly with the School42 OAuth Authentication Library, providing easy access to user information from School42's API within ASP.NET Core applications. It allows developers to retrieve detailed user profiles, including personal information, educational background, and project participation, using the authenticated user's access token.
 
